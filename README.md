@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maggiecasado
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python and machine learning
-- 💞️ I’m looking to collaborate on data sciences projects
+- 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach magdalenacasado92@gmail.com
 
 <!---
